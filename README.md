@@ -73,17 +73,27 @@ FocusFlow/
 
 ## Screenshots
 
+### Main Layout
+
+![Main Layout](screenshots/main.png)
+
+---
+
 ### Dashboard
 
-> Add a screenshot here.
+![Dashboard](screenshots/dashboard.png)
 
-### Active Study Session
-
-> Add a screenshot here.
+---
 
 ### Notification
 
-> Add a screenshot here.
+![Notification](screenshots/notification.png)
+
+---
+
+### Website Activity
+
+![Website Activity](screenshots/website.png)
 
 ---
 
