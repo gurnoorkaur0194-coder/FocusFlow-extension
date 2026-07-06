@@ -160,14 +160,9 @@ const GEMINI_API_KEY = "YOUR_API_KEY";
 
 ---
 
-## Motivation
+## Unique Quality
 
 Most productivity extensions simply block websites. FocusFlow takes a different approach by understanding the user's intent. Instead of blocking YouTube entirely, it uses AI to determine whether the content supports the user's study goal, allowing educational videos while discouraging distractions.
 
----
-
-## Author
-
-**Gurnoor Kaur**
-
-Computer Science student passionate about building practical software solutions using Artificial Intelligence, Web Technologies, and Data Science.
+##Contributions
+Contributions are welcome! Please fork the repository and submit a pull request with improvements or bug fixes.
